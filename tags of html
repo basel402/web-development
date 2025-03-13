@@ -1,0 +1,5 @@
+h1, h2 .... are used for headers
+p used to write a paragraph and after it a new line is done by default
+br/ is used to make a new line , ex: in a paragraph all words inside are written on the same line so we use to make new lines in any place we want
+some self closing tags -> br, input, img
+there are some attributes wriiten in the opening tag of some tags like align see examples in try by yourself
