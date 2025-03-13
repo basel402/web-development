@@ -4,3 +4,4 @@ br/ is used to make a new line , ex: in a paragraph all words inside are written
 some self closing tags -> br, input, img
 there are some attributes wriiten in the opening tag of some tags like align they are used to put some attributes for some elements(content between tags) see examples in try by yourself
 the form tag takes input from user and by default the input is submiited to the page u are using which is index.html
+the action attribute will contain the place where u go when inputing the data if the place is not found the page will return an error
